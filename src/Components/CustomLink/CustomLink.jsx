@@ -6,7 +6,7 @@ const CustomLink = ({ children, to, ...props }) => {
   const match = useMatch({ path: resolved.pathname, end: true });
   return (
     <div
-      className={`nav-item border-b-2 h-[80%] flex justify-center items-center w-16 uppercase font-semibold ${
+      className={`nav-item border-b-2 h-[80%] flex justify-center items-center w-32 uppercase font-semibold ${
         match ? "text-sky-500 border-sky-500" : "text-gray-500"
       }`}
     >
