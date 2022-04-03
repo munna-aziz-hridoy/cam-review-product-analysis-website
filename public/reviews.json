@@ -1,0 +1,88 @@
+[
+  {
+    "id": "fca02f18-f4a6-45d3-bf19-540f57179926",
+    "name": "Sharon Bryant",
+    "text": "I’m completely in love with this camera, it’s easy to use, the auto focus takes a little time which makes me shift to manual focus but don’t let that be an inconvenient, everything else with this camera is amazing and I couldn’t be happier! I’m a complete beginner and this camera just makes it so easy!",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/FxfB2sN/12.png"
+  },
+  {
+    "id": "15bda785-ced7-46e1-8343-44608ec2b3c2",
+    "name": "Jerry Perry",
+    "text": "This camera would be okay if it wasn’t for the fact that my battery is never sufficiently charged. Be it a battery issue, or a charger issue, it is not good when I’m outdoors trying to photography wildlife and the battery drops so quickly. I will say, the photo quality isn’t terrible, but be aware this camera is very loud.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/P5ryZrq/11.png"
+  },
+  {
+    "id": "974be733-4bc9-4ba6-a9a0-502c5cdb2d2d",
+    "name": "Katherine Green",
+    "text": "I love this camera, I’m new to photography and it’s easy to learn with camera. I really just have one issue, I wish the camera had an audio input for an external mic other than that it’s awesome thus far.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/bzXJPKz/10.png"
+  },
+
+  {
+    "id": "b780cdcc-6e5e-4689-97ff-ba163ddbdbe6",
+    "name": "Cheryl Walker",
+    "text": "The camera takes long to focus on a subject whether it’s a picture taken inside or outside, the camera should Atleast come with and SD card since it comes with a case and two lenses, i noticed my camera freezes up when i want to switch up the shooting mode",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/NNq9mDr/9.png"
+  },
+  {
+    "id": "eaa91e93-5daf-4d4e-8ab5-e0864c97c609",
+    "name": "Carl Brown",
+    "text": "I love this kit. It came within 2 days - I was thrilled. Although a beginner can navigate all the ins and outs, it sure helps having a bit of background in navigating photography prior to diving in. There is just a lot of information to read and comprehend if you want a thorough understanding of the camera's abilities. For me, it is PERFECT.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/jLpPxSH/8.png"
+  },
+  {
+    "id": "505f7e0a-d2c2-4365-884d-b208dfb86bda",
+    "name": "Jennifer Baker",
+    "text": "Good camera for both beginners and experienced photographers. Has all the bells and whistles for fine control over your photos and as well as automatic tools for those just wanting good snapshots. It has a good auto focus that can be turned off for fine tuned manual focus. Aperture is still automated but can at least be set to a fixed setting. 24 megpix is great picture quality for the price.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/vkyZ3kZ/7.png"
+  },
+  {
+    "id": "9a6fee85-472d-49bd-9eb3-bc02e9291dc7",
+    "name": "Juan Cox",
+    "text": "I bought this camera in order to be able to share my husband’s extensive lens collection. I had always used my Nikon and was happy with the pictures, but this Canon is extremely easy to use and the clarity of the pictures is impressive. I am still learning this camera, but I have been able to take some amazing shots. I like that this kit came with two lenses and I have purchased filters that magnify my subjects which is exactly what I wanted to use this camera for. Great first camera or a back up for experienced photographers.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/fq4BK2Z/6.png"
+  },
+
+  {
+    "id": "d3409023-6f07-43b2-b60b-b67ebe2be125",
+    "name": "Samuel Mitchell",
+    "text": "The camera was delivered on schedule and in good shape. I like the features, settings, and capibilities of the camera. For the price this is a great camera that gives you a wide range of setting from fully automatic to full manual control with many settings in between. I likely will never need a professional camera but I wanted much more than a point and shoot. My only complaint is there is about a 12 min limit on videos.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/hHNJ5D7/5.png"
+  },
+  {
+    "id": "a16c1a6b-27a2-4122-990c-8f3a5cd680a4",
+    "name": "Thomas King",
+    "text": "I wanted to get back into photography and saw this newer model Rebel. Everything came in one box. Small and easy to use. The two lenses gave me everything I needed to get started.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/BV69K6n/4.png"
+  },
+  {
+    "id": "97a6c707-be5d-474b-bf97-b172d544debc",
+    "name": "Norma Clark",
+    "text": "I am a life long Cannon fan. Easy to use and is a complete set with zoom. Excellent camera for beginners and experienced alike. I bought an attachable flash for myself but it does come with one.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/wK4Sqgw/3.png"
+  },
+  {
+    "id": "0f9b1a89-b0c7-4c00-8ed0-4c7aa237240a",
+    "name": "Henry Lee",
+    "text": "I’ve also always wanted a camera that can take great low-light / night shots. My iPhone camera was actually not bad for day-to-day photos but it took HORRIBLE night shots. The moon, for example, was always nothing more than a blurry blob no matter how still I stayed.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/yQcwvRt/2.png"
+  },
+  {
+    "id": "b8198af3-ac77-4bee-afdd-0be819f95be2",
+    "name": "Linda Ward",
+    "text": "For my entire life I’ve loved photography but have never owned anything more than your average point-n-shoot cameras in the $100-200 range (my last one was a low-end Panasonic Lumix). Or for the past decade I’ve only used the camera on my iPhone. I was lucky to receive a few Amazon gift cards on my recent birthday so I finally bit the bullet and bought this one. And may I just say...wow. I couldn’t be more pleased.",
+    "rating": 4.5,
+    "image": "https://i.ibb.co/KsrhmdJ/1.png"
+  }
+]
