@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <div className="container mx-auto">
       <div className="container mx-auto md:flex gap-16 justify-center items-center w-full my-16 p-5">
-        <div className="md:w-[60%]">
+        <div className="md:w-[60%] flex justify-center items-center flex-col md:block">
           <h1 className="text-7xl capitalize text-gray-600 font-bold my-8">
             your choise<br></br>
             <span className="text-[#01acfa]">our review</span>
@@ -37,7 +37,8 @@ const Home = () => {
       </div>
       <div className="my-20">
         <h2 className="text-gray-600 text-3xl font-bold text-center">
-          What they says about this camera
+          What they says about{" "}
+          <span className=" text-[#01acfa] uppercase">canon eos 850d.</span>
         </h2>
         <div className="md:grid md:grid-cols-2 lg:grid-cols-3 gap-6 my-16">
           {firstThreeReview.map((reviewItem) => (
