@@ -4,7 +4,7 @@
 
 ## Name: Cams-Review
 
-## Live Site: [Cams-Review]()
+## Live Site: [Cams-Review](https://cam-reviews.netlify.app/)
 
 ### Purpose of this site.
 
@@ -12,7 +12,7 @@ This site is created to show customer review for any product. Website contains m
 
 ## Tools and dependency for creating this app
 
-#Tools and Dependency:
+Tools and Dependency:
 
 - React.
 - React Router.
