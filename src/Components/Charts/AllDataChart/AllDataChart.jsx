@@ -1,11 +1,9 @@
 import React, { useContext } from "react";
 import {
-  Area,
   Bar,
+  BarChart,
   CartesianGrid,
-  ComposedChart,
   Legend,
-  Line,
   Tooltip,
   XAxis,
   YAxis,
@@ -19,31 +17,26 @@ const AllDataChart = () => {
       <h3 className="text-2xl font-bold text-[#01acfa] capitalize my-10">
         All data chart
       </h3>
-      <ComposedChart
+      <BarChart
         width={550}
         height={550}
         data={chartData}
         margin={{
           top: 20,
-          right: 20,
-          bottom: 20,
+          right: 30,
           left: 20,
+          bottom: 5,
         }}
       >
-        <CartesianGrid stroke="#f5f5f5" />
-        <XAxis dataKey="month" />
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="name" />
         <YAxis />
         <Tooltip />
         <Legend />
-        <Area
-          type="monotone"
-          dataKey="revenue"
-          fill="#01acfa"
-          stroke="#01acfa"
-        />
-        <Bar dataKey="sell" barSize={200} fill="#01acfa" />
-        <Line type="monotone" dataKey="investment" stroke="#ff7300" />
-      </ComposedChart>
+        <Bar dataKey="investment" stackId="a" fill="#8884d8" />
+        <Bar dataKey="revenue" stackId="a" fill="#82ca9d" />
+        <Bar dataKey="sell" fill="#ffc658" />
+      </BarChart>
     </div>
   );
 };
