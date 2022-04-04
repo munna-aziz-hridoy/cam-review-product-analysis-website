@@ -12,14 +12,10 @@ This site is created to show customer review for any product. Website contains m
 
 ## Tools and dependency for creating this app
 
-- Tools and Dependency: _ React.
-  _ React Router.
-  _ Axios.
-  _ Tailwind css.
-  \_Recharts.
+#Tools and Dependency:
 
-  This will create a bullet point list in your markdown
-  Markup : _ Bullet list
-  _ Nested bullet
-  _ Sub-nested bullet etc
-  _ Bullet list item 2
+- React.
+- React Router.
+- Axios.
+- Tailwind css.
+- Recharts.
